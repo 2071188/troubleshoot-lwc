@@ -4,7 +4,7 @@
         <headerColor>#AB1714</headerColor>
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
-    <description>This is one bad bunch of LWCs</description>
+    <description>This is oned bunch of LWCs</description>
     <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
